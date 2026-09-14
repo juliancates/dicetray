@@ -15,7 +15,7 @@ No build step, no dependencies, no backend. It's one HTML file you can open loca
 
 ## Usage
 
-Open `dice-tray.html` directly in a browser — that's it.
+Open `index.html` directly in a browser — that's it.
 
 To host it as a static site (GitHub Pages, Netlify, Vercel, S3, etc.), just publish `dice-tray.html` as-is. It has no server-side requirements.
 
